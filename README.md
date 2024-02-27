@@ -1,4 +1,4 @@
-<h1 align="center"> Nome do projeto </h1>
+<h1 align="center"> Imagetech - Dashboard </h1>
 
 <p align="center">
 	🚀Completed project 🚀
@@ -16,7 +16,7 @@
 <p align="center">
   <p align="center">
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8022F5&style=flat">&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1?label=Tecnologias&message=6&color=A8A60C&style=flat">&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?label=Tecnologias&message=14&color=A8A60C&style=flat">&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-guimaraes-vieira/"><img src="https://img.shields.io/static/v1?label=feito%20por&message=Daniel&color=4B00A8&style=flat"></a>
 </p>
 
@@ -44,37 +44,38 @@ https://github.com/Daniel-Guimaraes/imagetech-dashboard/assets/102679381/6a669ac
 
 
 
-## Pré-requisitos:
+## Prerequisites:
 
 - `Node.js (versão 16.14 ou superior)`
 
-#### pnpm (gerenciador de pacotes)
-##### Instalação:
+#### pnpm (package manager)
+##### Installation:
 
-Instale o pnpm globalmente:
+Install pnpm globally:
 
 - `npm install -g pnpm`
 
-Navegue até a pasta do seu projeto.
+Navigate to your project folder.
 
-Instale as dependências do projeto:
+Install the project dependencies:
 
 - `pnpm install`
 
 #### Uso:
 
-Inicie o servidor de desenvolvimento:
+Start the development server:
 
 `pnpm start`
 
-Abra o navegador em http://localhost:3000 para visualizar o projeto.
-Opções adicionais:
+Open the browser at http://localhost:3000 to view the project.
+Additional options:
 
-Para executar testes:
+To run tests:
 
 - `pnpm test`
 
-Para construir o projeto para produção:
+To build the project for production:
+
 - `pnpm build`
 <br />
 
@@ -84,15 +85,26 @@ Para construir o projeto para produção:
 
 This project was developed with the following technologies:
 
-- HTML e CSS
-- [JavaScript e JSON](https://www.javascript.com/)
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
+- **JavaScript e JSON**
+- **React**
+- **Node**
+- **Vite**
+- **Axios**
+- **Radix**
+- **Tanstack/React Query**
+- **Sonner**
+- **React Hook Form**
+- **zod**
+- **Tailwind**
+- **Typescript**
+- **React Router Dom**
+- **Typescript**
+  
 
 ## 💻 Projeto
 
-Sobre o projeto
+standard files 
+A complete dashboard so you can manage your sales, customers and products.
 
 ## 🔖 Layout
 
