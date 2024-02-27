@@ -17,7 +17,7 @@ import { useNavigate } from 'react-router-dom'
 
 import { useAuth } from '@/hooks/useAuth'
 
-import { ThemeToggle } from '../theme/theme-toggle'
+import { ThemeToggle } from './theme/theme-toggle'
 import { NavLink } from './nav-link'
 import { Button } from './ui/button'
 import { Separator } from './ui/separator'

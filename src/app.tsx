@@ -8,7 +8,7 @@ import { Toaster } from 'sonner'
 import { AuthProvider } from './context/auth'
 import { queryClient } from './lib/react-query'
 import { Routes } from './routes'
-import { ThemeProvider } from './theme/theme-provider'
+import { ThemeProvider } from './components/theme/theme-provider'
 
 export function App() {
   return (
