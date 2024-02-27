@@ -26,17 +26,23 @@
    💻 desktop
 </h2>&nbsp;
 
-<p align="center">
-  <img alt="" src=".github/project-desktop.png" width="100%">
-</p>
+
+
+https://github.com/Daniel-Guimaraes/imagetech-dashboard/assets/102679381/ba8fc70e-fdc3-40d1-8207-26da59cd0e14
+
+
 
 <h2>
    📱 Mobile
 </h2>&nbsp;
 
-<p align="center">
-  <img alt="" src=".github/project-mobile.png" width="50%">
-</p>&nbsp;
+
+
+
+https://github.com/Daniel-Guimaraes/imagetech-dashboard/assets/102679381/6a669aca-d139-4f84-b195-c5a508ccda81
+
+
+
 
 ## Pré-requisitos:
 
